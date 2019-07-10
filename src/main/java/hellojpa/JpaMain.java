@@ -20,18 +20,19 @@ public class JpaMain {
         tx.begin();
 
         try {
-//            insert
-//            Member member = new Member();
-//            member.setId(2L);
-//            member.setName("guppyB");
-//            em.persist(member);
+            // 비영속
+            Member member = new Member();
+            member.setId(102L);
+            member.setName("guppy");
 
-//            Member findMember = em.find(Member.class, 1L);
-//            findMember.setName("guppy.kang");
+            // 영속
+            System.out.println("BEFORE");
+            em.persist(member);
+            System.out.println("AFTER");
 
-            List<Member> members = em.createQuery("select m from Member as m", Member.class).getResultList();
+            Member findMember = em.find(Member.class, 102L);
 
-            members.forEach(it -> System.out.println(it.getName()));
+            System.out.println(findMember.getId());
 
             tx.commit();
         } catch (Exception e) {
