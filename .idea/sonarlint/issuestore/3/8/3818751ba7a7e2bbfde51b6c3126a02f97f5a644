@@ -1,5 +1,4 @@
 
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ±ÆÚ8ðÜŒÈ½-
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Á×Ë²ùÿÿÿÿ8Úâ‘È½-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Àû€£8‚„’È½-
+Isquid:S1481"+Remove this unused "member" local variable.(ïû·„8·ç¢À¿-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôÆõÍúÿÿÿÿ8ìÏüñ½-

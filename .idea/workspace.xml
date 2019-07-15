@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92887d3c-0303-4736-a749-757835d4721d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/3818751ba7a7e2bbfde51b6c3126a02f97f5a644" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/3818751ba7a7e2bbfde51b6c3126a02f97f5a644" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hellojpa/JpaMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hellojpa/JpaMain.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -61,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+            <state relative-caret-position="340">
+              <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,18 +76,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/hellojpa/Member.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="170">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#250#251#0" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
                 <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -107,8 +104,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/hellojpa/Member.java" />
-        <option value="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" />
         <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java" />
       </list>
     </option>
   </component>
@@ -153,6 +150,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -194,8 +193,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -249,18 +246,20 @@
       <updated>1562628635677</updated>
       <workItem from="1562628643018" duration="3061000" />
       <workItem from="1562713365219" duration="2336000" />
-      <workItem from="1562800596597" duration="1232000" />
+      <workItem from="1562800596597" duration="1883000" />
+      <workItem from="1563233708331" duration="799000" />
+      <workItem from="1563234592833" duration="265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6629000" />
+    <option name="totallyTimeSpent" value="8344000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="-213" width="2560" height="1440" extended-state="6" />
+    <frame x="1680" y="-213" width="2560" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14892772" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15131056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Persistence" order="3" side_tool="true" />
@@ -287,7 +286,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.200556" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.200556" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
@@ -307,24 +306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/hellojpa/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -335,7 +316,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -346,10 +327,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/hellojpa/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hellojpa/JpaMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="340">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
